@@ -1,7 +1,3 @@
-
-
-git readme give description for the currency_converter
-
 💱 Currency Converter
 A simple and responsive currency converter web app that allows users to convert one currency into another using real-time exchange rates. Users can select currencies from dropdown menus, enter an amount, and instantly view the converted value.
 
@@ -51,13 +47,5 @@ Event Handling
 
 Dynamic UI Updates
 
-📷 Preview
-Add screenshots or GIFs of your project here.
-
-🔗 Live Demo
-Add your deployed project link here.
-
-📚 Learning Outcome
-Built a strong understanding of how APIs work with JavaScript and improved frontend development skills by creating an interactive real-world project.
 
 
